@@ -39,7 +39,7 @@
 - 💼 [LinkedIn: @Sarah IgweBenson](https://www.linkedin.com/in/sarah-igwebenson-a41173360)
 - 🐦 [X: @SarahIgwe660339](https://x.com/SarahIgwe660339)
 - 📧 [Email: sarahigwebenson@gmail.com](mailto:sarahigwebenson@gmail.com)
-- 🌐 [Portfolio](https://x.com/SarahIgwe660339)
+- 🌐 [Portfolio](https://sarah-igwe.vercel.app/)
 
 ---
 
